@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/OJ217/Mezorn-Front-end-challenge.git/static/js/main.a545e6b4.js",
-    "index.html": "/OJ217/Mezorn-Front-end-challenge.git/index.html",
-    "main.a545e6b4.js.map": "/OJ217/Mezorn-Front-end-challenge.git/static/js/main.a545e6b4.js.map"
+    "main.js": "/Mezorn-Front-end-challenge/static/js/main.a545e6b4.js",
+    "index.html": "/Mezorn-Front-end-challenge/index.html",
+    "main.a545e6b4.js.map": "/Mezorn-Front-end-challenge/static/js/main.a545e6b4.js.map"
   },
   "entrypoints": [
     "static/js/main.a545e6b4.js"
